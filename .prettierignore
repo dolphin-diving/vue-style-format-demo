@@ -1,0 +1,7 @@
+# Ignore artifacts:
+
+public/**
+dist/
+node_modules/
+build
+coverage
